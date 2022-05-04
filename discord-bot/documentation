@@ -1,0 +1,4 @@
+This discord bot does three things: 
+1. Gives roles based on !addrole [name] [role] command. All roles are listed in the discord server in the Links page
+2. Gives a quote based on !quote command. Will give random quote from https://api.quotable.io/random. 
+3. Gives a random greeting based on !greeting command. There are a total of 8 greetings. 
